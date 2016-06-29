@@ -16,6 +16,7 @@
     'license': 'AGPL-3',
     'images': [],
     'price': 100,
+    'currency': 'EUR',
     'data': [
     ],
     'installable': True
