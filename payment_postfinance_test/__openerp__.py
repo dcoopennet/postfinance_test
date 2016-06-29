@@ -15,6 +15,7 @@
     'website': 'http://open-net.ch',
     'license': 'AGPL-3',
     'images': [],
+    'price': 100,
     'data': [
     ],
     'installable': True
