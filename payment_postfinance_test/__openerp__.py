@@ -6,7 +6,7 @@
     'depends': [
         'payment'
     ],
-    'version': '1.0.0',
+    'version': '1.0.2',
     'auto_install': False,
     'website': 'http://open-net.ch',
     'license': 'AGPL-3',
