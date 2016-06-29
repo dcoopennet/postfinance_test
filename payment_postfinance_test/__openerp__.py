@@ -5,7 +5,7 @@
 {
     'name': 'Postfinance payment',
     'summary': 'This module add Postfinance for online payment',
-    'category': 'Hidden',
+    'category': 'eCommerce',
     'author': "Open Net Sàrl",
     'depends': [
         'payment'
