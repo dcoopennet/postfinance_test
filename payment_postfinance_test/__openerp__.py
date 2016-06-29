@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# © 2016 Coninckx David (Open Net Sàrl)
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
-
 {
     'name': 'Postfinance payment',
     'summary': 'This module add Postfinance for online payment',
